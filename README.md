@@ -17,6 +17,7 @@ RESET      : 0 (numeric)
 
 ## Install & launch
 
+Currently only tested on OS X.
 ```
 https://github.com/vbespalk/fractol.git ~/fractol
 cd ~/fractol && make
